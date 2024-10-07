@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Majormar88
+- 👋 Hi, I’m @avidaesoumalife
 - 👀 I’m interested in MUSIC and Sports 
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently studying Software Development @ GCU
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me ...
 
